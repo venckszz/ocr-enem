@@ -1,4 +1,4 @@
-# Clareia — OCR e correção ENEM
+# Corretor Redacao AI — OCR e correção ENEM
 
 Aplicação web para transcrever redações manuscritas e produzir uma correção estruturada nas cinco competências do ENEM.
 
